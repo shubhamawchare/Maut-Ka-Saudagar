@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Maps/MainMenu.umap",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Maps/Gameplay.umap",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Maps/Map1.umap",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/HorrorBase_GI.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/BaseCharacter.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/Gameplay_GM.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/Gameplay_PC.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/MainMenu_GM.uasset",
+				"D:/Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/MainMenu_PC.uasset"
+			]
+		}
+	]
+}
