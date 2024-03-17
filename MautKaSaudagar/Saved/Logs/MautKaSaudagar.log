@@ -4317,3 +4317,837 @@ UnknownFunction []
 [2024.03.17-13.21.15:595][343]LogHttp: Warning: 000006B7AC9D0000: libcurl info message cache 7 (Closing connection 52)
 [2024.03.17-13.21.15:595][343]LogHttp: Warning: 000006B7AC9D0000: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.17-13.21.15:595][343]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.24.27:808][607]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.17-13.24.27:827][607]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.17-13.24.27:832][607]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.17-13.24.27:845][608]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.17-13.24.32:556][891]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Master_UI
+[2024.03.17-13.24.32:579][891]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.17-13.24.33:262][932]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Master_UI.Master_UI
+[2024.03.17-13.24.33:262][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.24.33:262][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.24.33:270][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.24.33:270][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.24.33:277][932]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.17-13.24.33:454][932]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.17-13.24.33:455][932]LogSlate: Took 0.000750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 0 (Found bundle for host: 0x6b723960d20 [serially])
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 1 (Re-using existing connection #54 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.78.92) port 443 (#54))
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 7 (Closing connection 54)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: 000006B7B5DC9100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.27.15:880][375]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.28.46:136][796]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.17-13.28.46:145][796]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.17-13.28.46:154][797]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.17-13.28.48:264][924]LogContentBrowser: Attempting asset rename: NewFolder -> Images
+[2024.03.17-13.28.48:265][924]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.17-13.28.56:049][103]LogInterchangeEngine: [Pending] Importing
+[2024.03.17-13.28.56:049][103]LogInterchangeEngine: Display: Interchange start importing source [D:/Rapid Game P...osshairs/simplesimple-01.png]
+[2024.03.17-13.28.56:050][103]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.03.17-13.28.56:060][103]LogTexture: Display: Building textures: /Game/Images/simple-01.simple-01 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.03.17-13.28.56:068][103]LogInterchangeEngine: [Success] Import Done
+[2024.03.17-13.28.56:116][104]LogInterchangeEngine: [Success] Import Done
+[2024.03.17-13.29.17:568][455]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.17-13.29.17:579][455]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.17-13.29.17:588][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.17-13.29.19:115][548]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.03.17-13.29.19:116][548]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.17-13.29.21:348][668]LogMetaData: Removing '/Game/UI/Master_UI.SKEL_Master_UI_C' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:348][668]LogMetaData: Removing '/Game/UI/Master_UI.Master_UI_C' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:348][668]LogMetaData: Removing '/Game/UI/Master_UI.Master_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:348][668]LogMetaData: Removing '/Game/UI/Master_UI.Master_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:349][668]LogMetaData: Removing '/Game/UI/Master_UI.Master_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:349][668]LogMetaData: Removing '/Game/UI/Master_UI.SKEL_Master_UI_C:PreConstruct' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:349][668]LogMetaData: Removing '/Game/UI/Master_UI.SKEL_Master_UI_C:Construct' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:349][668]LogMetaData: Removing '/Game/UI/Master_UI.SKEL_Master_UI_C:Tick' ref from Metadata '/Game/Master_UI.PackageMetaData'
+[2024.03.17-13.29.21:349][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-13.29.21:423][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Master_UI" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset" SILENT=true
+[2024.03.17-13.29.21:436][668]LogSavePackage: Moving output files for package: /Game/UI/Master_UI
+[2024.03.17-13.29.21:436][668]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Master_UIEE60134543DEB53827E9F2844C47C8A4.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset'
+[2024.03.17-13.29.21:450][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.09 sec)
+[2024.03.17-13.29.21:536][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.17-13.29.21:556][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.17-13.29.21:574][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.17-13.29.21:627][668]AssetCheck: New page: Asset Save: Master_UI
+[2024.03.17-13.29.21:627][668]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Master_UI.Master_UI
+[2024.03.17-13.30.10:645][665]BlueprintLog: New page: Compile Master_UI
+[2024.03.17-13.30.10:674][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.17-13.30.16:169][705]LogHttp: Warning: 000006B7A249BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.30.16:169][705]LogHttp: Warning: 000006B7A249BE00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.30.16:169][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 0 (Found bundle for host: 0x6b723960e10 [serially])
+[2024.03.17-13.30.16:169][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 1 (Re-using existing connection #55 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.30.16:169][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.233.119) port 443 (#55))
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 7 (Closing connection 55)
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: 000006B7A249BE00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.30.16:170][705]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.30.53:624][ 49]BlueprintLog: New page: Compile Master_UI
+[2024.03.17-13.30.53:646][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.17-13.30.54:803][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-13.30.54:877][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Master_UI" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset" SILENT=true
+[2024.03.17-13.30.54:890][113]LogSavePackage: Moving output files for package: /Game/UI/Master_UI
+[2024.03.17-13.30.54:891][113]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Master_UI21089B2F4ABA26A0FF45DDA135FC1C48.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset'
+[2024.03.17-13.30.54:900][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.18 sec)
+[2024.03.17-13.30.54:905][113]AssetCheck: New page: Asset Save: Master_UI
+[2024.03.17-13.30.54:905][113]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Master_UI.Master_UI
+[2024.03.17-13.30.56:374][201]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.30.56:374][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.30.57:233][247]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.17-13.30.57:233][247]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.30.57:233][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.30.57:844][277]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.17-13.30.57:844][277]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.30.57:844][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.32.42:342][560]BlueprintLog: New page: Compile BaseCharacter
+[2024.03.17-13.32.42:397][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.17-13.32.42:854][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-13.32.42:925][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BaseCharacter" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/BaseCharacter.uasset" SILENT=true
+[2024.03.17-13.32.42:942][583]LogSavePackage: Moving output files for package: /Game/Core/BaseCharacter
+[2024.03.17-13.32.42:943][583]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/BaseCharacter82799F754C226E4E2384C3823BC02AD2.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Core/BaseCharacter.uasset'
+[2024.03.17-13.32.42:953][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.28 sec)
+[2024.03.17-13.32.42:957][583]AssetCheck: New page: Asset Save: BaseCharacter
+[2024.03.17-13.32.42:958][583]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/BaseCharacter.BaseCharacter
+[2024.03.17-13.32.45:949][668]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-13.32.45:956][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-13.32.45:956][668]PIE: New page: PIE session: Map1 (17-Mar-2024, 1:32:45 pm)
+[2024.03.17-13.32.45:956][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.32.45:960][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2024.03.17-13.32.45:960][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.004012s)
+[2024.03.17-13.32.45:960][668]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.32.45:960][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.32.45:960][668]LogAIModule: Creating AISystem for world Map1
+[2024.03.17-13.32.45:960][668]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2024.03.17-13.32.45:978][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.17-13.32.45:984][668]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.17-13.32.45:984][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-13.32.45:984][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-13.32.45:984][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-13.32.45:984][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-13.32.45:984][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-13.32.45:986][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-13.32.46:012][668]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.17-13.32.46:013][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-13.32.46:013][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-13.32.46:013][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-13.32.46:014][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.17-13.32.46:014][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.17-13.32.46:016][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.17-13.32.46:016][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.17-13.32.46:016][668]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.17-13.32.46:016][668]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map1'.
+[2024.03.17-13.32.46:016][668]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.17-13.32.46:064][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.32.46:064][668]LogLoad: Game class is 'Gameplay_GM_C'
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:065][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:066][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:066][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:066][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_31.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:066][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:066][668]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_33.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=3.500
+[2024.03.17-13.32.46:067][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2024.03.17-13.32.46
+[2024.03.17-13.32.46:067][668]LogWorld: Bringing up level for play took: 0.003107
+[2024.03.17-13.32.46:069][668]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.17-13.32.46:074][668]PIE: Server logged in
+[2024.03.17-13.32.46:077][668]PIE: Play in editor total start time 0.121 seconds.
+[2024.03.17-13.32.46:088][668]LogViewport: Scene viewport resized to 1310x870, mode Windowed.
+[2024.03.17-13.33.18:087][582]LogBlueprintUserMessages: [BP_Key_C_1] +Key
+[2024.03.17-13.33.50:210][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.33.50:210][506]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.33.50:212][506]LogSlate: Window 'MautKaSaudagar Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.17-13.33.50:219][506]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.33.50:220][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.33.50:223][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-13.33.50:227][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.33.50:246][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-13.33.50:246][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.17-13.33.50:246][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.17-13.33.50:248][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.17-13.33.50:257][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.17-13.33.50:274][507]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.17-13.33.59:935][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:935][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:936][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:936][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:936][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:937][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.33.59:938][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:318][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-13.34.01:324][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-13.34.01:324][732]PIE: New page: PIE session: Map1 (17-Mar-2024, 1:34:01 pm)
+[2024.03.17-13.34.01:324][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.01:329][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004251s)
+[2024.03.17-13.34.01:329][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.004283s)
+[2024.03.17-13.34.01:329][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.34.01:329][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.34.01:329][732]LogAIModule: Creating AISystem for world Map1
+[2024.03.17-13.34.01:329][732]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2024.03.17-13.34.01:347][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.17-13.34.01:348][732]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.17-13.34.01:349][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-13.34.01:349][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-13.34.01:349][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-13.34.01:349][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-13.34.01:349][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-13.34.01:351][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-13.34.01:377][732]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.17-13.34.01:378][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-13.34.01:378][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-13.34.01:378][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-13.34.01:378][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.17-13.34.01:379][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.17-13.34.01:380][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.17-13.34.01:380][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.17-13.34.01:380][732]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.17-13.34.01:380][732]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map1'.
+[2024.03.17-13.34.01:380][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.17-13.34.01:382][732]LogLoad: Game class is 'Gameplay_GM_C'
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:383][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:384][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_31.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:384][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:384][732]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_33.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.01:384][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2024.03.17-13.34.01
+[2024.03.17-13.34.01:385][732]LogWorld: Bringing up level for play took: 0.002115
+[2024.03.17-13.34.01:387][732]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.03.17-13.34.01:388][732]PIE: Server logged in
+[2024.03.17-13.34.01:389][732]PIE: Play in editor total start time 0.065 seconds.
+[2024.03.17-13.34.01:405][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:405][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:406][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:406][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:407][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:407][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.01:408][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:689][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.04:689][925]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.04:689][925]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.34.04:690][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.04:693][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-13.34.04:697][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.04:715][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.04:715][925]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.17-13.34.04:715][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.17-13.34.04:717][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.17-13.34.04:723][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.17-13.34.04:745][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:746][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:746][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:747][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:747][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:747][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:749][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-13.34.04:767][927]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.03.17-13.34.17:088][666]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-13.34.17:095][666]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.17-13.34.17:111][666]LogPlayLevel: [PlayLevel] Compiling Master_UI before play...
+[2024.03.17-13.34.17:199][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.17-13.34.17:203][666]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2024.03.17-13.34.17:204][666]PIE: New page: PIE session: Map1 (17-Mar-2024, 1:34:17 pm)
+[2024.03.17-13.34.17:204][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.17:208][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003894s)
+[2024.03.17-13.34.17:208][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.003920s)
+[2024.03.17-13.34.17:208][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.34.17:208][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.34.17:208][666]LogAIModule: Creating AISystem for world Map1
+[2024.03.17-13.34.17:208][666]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2024.03.17-13.34.17:228][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.03.17-13.34.17:230][666]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.17-13.34.17:230][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-13.34.17:230][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-13.34.17:230][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-13.34.17:230][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-13.34.17:230][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-13.34.17:232][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-13.34.17:259][666]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.17-13.34.17:259][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-13.34.17:259][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-13.34.17:259][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-13.34.17:260][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.17-13.34.17:260][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.17-13.34.17:261][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.17-13.34.17:261][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.17-13.34.17:261][666]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.17-13.34.17:261][666]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map1'.
+[2024.03.17-13.34.17:261][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.17-13.34.17:318][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.17:318][666]LogLoad: Game class is 'Gameplay_GM_C'
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:319][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:320][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:320][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_31.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:320][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:320][666]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_33.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.17:320][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2024.03.17-13.34.17
+[2024.03.17-13.34.17:321][666]LogWorld: Bringing up level for play took: 0.002215
+[2024.03.17-13.34.17:323][666]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.03.17-13.34.17:326][666]PIE: Server logged in
+[2024.03.17-13.34.17:327][666]PIE: Play in editor total start time 0.233 seconds.
+[2024.03.17-13.34.17:371][666]LogViewport: Scene viewport resized to 1312x880, mode Windowed.
+[2024.03.17-13.34.27:399][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.27:399][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.27:400][250]LogSlate: Window 'MautKaSaudagar Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.17-13.34.27:407][250]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.34.27:407][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.27:410][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-13.34.27:416][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.27:436][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.17-13.34.27:436][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.17-13.34.27:438][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.17-13.34.27:447][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.17-13.34.27:491][252]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.03.17-13.34.37:942][879]BlueprintLog: New page: Compile Master_UI
+[2024.03.17-13.34.37:979][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.17-13.34.38:469][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-13.34.38:476][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-13.34.38:476][903]PIE: New page: PIE session: Map1 (17-Mar-2024, 1:34:38 pm)
+[2024.03.17-13.34.38:476][903]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.38:480][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003944s)
+[2024.03.17-13.34.38:480][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.003970s)
+[2024.03.17-13.34.38:480][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.34.38:480][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.34.38:480][903]LogAIModule: Creating AISystem for world Map1
+[2024.03.17-13.34.38:481][903]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2024.03.17-13.34.38:498][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.17-13.34.38:502][903]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.17-13.34.38:503][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-13.34.38:503][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-13.34.38:503][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-13.34.38:503][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-13.34.38:503][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-13.34.38:505][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-13.34.38:531][903]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.17-13.34.38:531][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-13.34.38:531][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-13.34.38:531][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-13.34.38:532][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.03.17-13.34.38:532][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.03.17-13.34.38:533][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.03.17-13.34.38:533][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.03.17-13.34.38:533][903]LogInit: FAudioDevice initialized with ID 25.
+[2024.03.17-13.34.38:533][903]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map1'.
+[2024.03.17-13.34.38:533][903]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.17-13.34.38:585][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.38:585][903]LogLoad: Game class is 'Gameplay_GM_C'
+[2024.03.17-13.34.38:585][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:585][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:585][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_31.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:586][903]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_33.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=3.500
+[2024.03.17-13.34.38:587][903]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2024.03.17-13.34.38
+[2024.03.17-13.34.38:587][903]LogWorld: Bringing up level for play took: 0.002237
+[2024.03.17-13.34.38:589][903]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.03.17-13.34.38:592][903]PIE: Server logged in
+[2024.03.17-13.34.38:593][903]PIE: Play in editor total start time 0.118 seconds.
+[2024.03.17-13.34.38:605][903]LogViewport: Scene viewport resized to 1314x890, mode Windowed.
+[2024.03.17-13.34.46:809][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.34.46:809][379]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.34.46:810][379]LogSlate: Window 'MautKaSaudagar Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.17-13.34.46:817][379]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.34.46:818][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.46:820][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-13.34.46:825][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.34.46:845][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-13.34.46:845][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.17-13.34.46:845][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.17-13.34.46:847][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.17-13.34.46:854][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.17-13.34.46:888][381]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.03.17-13.35.12:041][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.17-13.35.12:054][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map1_Auto9
+[2024.03.17-13.35.12:054][478]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Map1_Auto95F18B4334744A7B0A4FB7396E45DD6C1.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Autosaves/Game/Maps/Map1_Auto9.umap'
+[2024.03.17-13.35.12:057][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map1' took 0.034
+[2024.03.17-13.35.12:057][478]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.03.17-13.35.12:057][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Master_UI] ([2] browsable assets)...
+[2024.03.17-13.35.12:059][478]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Master_UI.Master_UI]
+[2024.03.17-13.35.12:059][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Master_UI]
+[2024.03.17-13.35.12:062][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Master_UI_Auto9
+[2024.03.17-13.35.12:062][478]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Master_UI_Auto994FCA0EE46D891B93067DDBF0EEB4C24.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Autosaves/Game/UI/Master_UI_Auto9.uasset'
+[2024.03.17-13.35.12:064][478]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/simple-01] ([1] browsable assets)...
+[2024.03.17-13.35.12:065][478]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/simple-01.simple-01]
+[2024.03.17-13.35.12:066][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/simple-01]
+[2024.03.17-13.35.12:078][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/simple-01_Auto9
+[2024.03.17-13.35.12:078][478]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/simple-01_Auto9D17FFBDB4DB5EA0F1BC8A7B4AB021B6D.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Autosaves/Game/Images/simple-01_Auto9.uasset'
+[2024.03.17-13.35.12:079][478]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.03.17-13.36.00:148][923]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.17-13.36.00:161][923]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.17-13.36.00:174][924]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.17-13.36.02:881][ 87]LogContentBrowser: Attempting asset rename: NewFolder -> Fonts
+[2024.03.17-13.36.02:881][ 87]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.17-13.36.18:876][210]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 D:\Rapid Game Prototyping\Theme 4\horror course\fonthorror\Sinister Visions Fonts\Haunting Attraction.ttf)
+[2024.03.17-13.36.28:762][210]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.03.17-13.36.28:768][210]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2024.03.17-13.36.28:769][210]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.03.17-13.36.28:795][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.36.28:801][211]LogSlate: Took 0.000621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.17-13.36.28:804][211]LogSlate: Took 0.000482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.17-13.36.28:813][211]LogSlate: Took 0.007222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.17-13.36.28:816][211]LogSlate: Took 0.001774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.17-13.36.28:819][211]LogSlate: Took 0.000660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.17-13.36.28:840][212]LogSlate: Took 0.000783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 0 (Found bundle for host: 0x6b723960ae0 [serially])
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 1 (Re-using existing connection #57 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.216.122.239) port 443 (#57))
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 7 (Closing connection 57)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: 000006B7933D1E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.37.16:868][434]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 0 (Found bundle for host: 0x6b7239609f0 [serially])
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 1 (Re-using existing connection #58 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.220.100.223) port 443 (#58))
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 7 (Closing connection 58)
+[2024.03.17-13.41.16:924][154]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.41.16:925][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.45.12:454][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.17-13.45.12:460][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map1' took 0.064
+[2024.03.17-13.45.12:461][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Haunting_Attraction] ([1] browsable assets)...
+[2024.03.17-13.45.12:461][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Haunting_Attraction]
+[2024.03.17-13.45.12:462][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/Haunting_Attraction_Auto0
+[2024.03.17-13.45.12:462][859]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Haunting_Attraction_Auto05316BA7241690962472E4D9BAD5EEBAC.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Autosaves/Game/Fonts/Haunting_Attraction_Auto0.uasset'
+[2024.03.17-13.45.12:463][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/Haunting_Attraction_Font] ([1] browsable assets)...
+[2024.03.17-13.45.12:466][859]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/Haunting_Attraction_Font.Haunting_Attraction_Font]
+[2024.03.17-13.45.12:466][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Haunting_Attraction_Font]
+[2024.03.17-13.45.12:468][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/Haunting_Attraction_Font_Auto0
+[2024.03.17-13.45.12:468][859]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Haunting_Attraction_Font_Auto05EC1B1964A2D4DFABA4C75B1568C250D.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Autosaves/Game/Fonts/Haunting_Attraction_Font_Auto0.uasset'
+[2024.03.17-13.45.12:469][859]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 0 (Found bundle for host: 0x6b723960b40 [serially])
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 1 (Re-using existing connection #59 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.73.66.167) port 443 (#59))
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 7 (Closing connection 59)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: 000006B7933D6E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.45.16:983][874]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.49.17:026][594]LogHttp: Warning: 000006B7933DD700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.49.17:026][594]LogHttp: Warning: 000006B7933DD700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.49.17:026][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 0 (Found bundle for host: 0x6b723960b70 [serially])
+[2024.03.17-13.49.17:026][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 1 (Re-using existing connection #60 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.230.171.76) port 443 (#60))
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 7 (Closing connection 60)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: 000006B7933DD700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.49.17:027][594]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.53.17:075][314]LogHttp: Warning: 000006B7933DF000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 0 (Found bundle for host: 0x6b723960f60 [serially])
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 1 (Re-using existing connection #61 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (184.73.211.59) port 443 (#61))
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 7 (Closing connection 61)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: 000006B7933DF000: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.53.17:076][314]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.56.17:104][854]LogHttp: Warning: 000006B7933D5500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 0 (Found bundle for host: 0x6b723960ed0 [serially])
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 1 (Re-using existing connection #62 with host datarouter.ol.epicgames.com)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.199.69.120) port 443 (#62))
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 7 (Closing connection 62)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: 000006B7933D5500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-13.56.17:105][854]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-13.56.25:333][ 43]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-13.56.25:340][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-13.56.25:340][ 43]PIE: New page: PIE session: Map1 (17-Mar-2024, 1:56:25 pm)
+[2024.03.17-13.56.25:340][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.56.25:344][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003952s)
+[2024.03.17-13.56.25:344][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.003980s)
+[2024.03.17-13.56.25:344][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-13.56.25:344][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-13.56.25:344][ 43]LogAIModule: Creating AISystem for world Map1
+[2024.03.17-13.56.25:344][ 43]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2024.03.17-13.56.25:362][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.17-13.56.25:364][ 43]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.17-13.56.25:364][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-13.56.25:364][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-13.56.25:364][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-13.56.25:364][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-13.56.25:364][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-13.56.25:366][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-13.56.25:394][ 43]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.17-13.56.25:395][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-13.56.25:395][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-13.56.25:395][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-13.56.25:396][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.03.17-13.56.25:396][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.03.17-13.56.25:398][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.03.17-13.56.25:398][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.03.17-13.56.25:398][ 43]LogInit: FAudioDevice initialized with ID 26.
+[2024.03.17-13.56.25:398][ 43]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map1'.
+[2024.03.17-13.56.25:398][ 43]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.17-13.56.25:453][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.56.25:453][ 43]LogLoad: Game class is 'Gameplay_GM_C'
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_31.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:454][ 43]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.StaticMeshActor_33.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=3.500
+[2024.03.17-13.56.25:455][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2024.03.17-13.56.25
+[2024.03.17-13.56.25:455][ 43]LogWorld: Bringing up level for play took: 0.002214
+[2024.03.17-13.56.25:458][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.03.17-13.56.25:461][ 43]PIE: Server logged in
+[2024.03.17-13.56.25:462][ 43]PIE: Play in editor total start time 0.122 seconds.
+[2024.03.17-13.56.25:472][ 43]LogViewport: Scene viewport resized to 1316x900, mode Windowed.
+[2024.03.17-13.56.31:930][418]LogBlueprintUserMessages: [BP_Key_C_1] +Key
+[2024.03.17-13.56.45:996][262]LogBlueprintUserMessages: [BP_Key_C_2] +Key
+[2024.03.17-13.56.48:486][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-13.56.48:486][409]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map1
+[2024.03.17-13.56.48:487][409]LogSlate: Window 'MautKaSaudagar Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.17-13.56.48:494][409]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-13.56.48:494][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.56.48:497][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-13.56.48:501][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-13.56.48:521][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.17-13.56.48:521][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.17-13.56.48:523][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.17-13.56.48:531][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.17-13.56.48:547][410]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 0 (Found bundle for host: 0x6b723960990 [serially])
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 1 (Re-using existing connection #63 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.213.175) port 443 (#63))
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 7 (Closing connection 63)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.00.17:004][918]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 0 (Found bundle for host: 0x6b723960c60 [serially])
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 1 (Re-using existing connection #64 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.217.3.240) port 443 (#64))
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 7 (Closing connection 64)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: 000006B79ECF1E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.04.17:042][320]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.08.17:130][725]LogHttp: Warning: 000006B79ECF1400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 0 (Found bundle for host: 0x6b7239605d0 [serially])
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 1 (Re-using existing connection #65 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.20.149) port 443 (#65))
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 7 (Closing connection 65)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.08.17:131][725]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 0 (Found bundle for host: 0x6b723960240 [serially])
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 1 (Re-using existing connection #66 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.111.215) port 443 (#66))
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 7 (Closing connection 66)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: 000006B79ECFFA00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.13.17:070][721]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 0 (Found bundle for host: 0x6b723960ab0 [serially])
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 1 (Re-using existing connection #67 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (184.73.139.142) port 443 (#67))
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 7 (Closing connection 67)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.17.17:158][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.18.51:698][798]LogDerivedDataCache: C:/Users/ROG STRIX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:52.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 59492 files in 56389 folders with total size 4688 MiB.
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 0 (Found bundle for host: 0x6b723960660 [serially])
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 1 (Re-using existing connection #68 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.92.166.11) port 443 (#68))
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 7 (Closing connection 68)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: 000006B79ECF1400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.22.17:079][121]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 0 (Found bundle for host: 0x6b723960b40 [serially])
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 1 (Re-using existing connection #69 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.151.99) port 443 (#69))
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 7 (Closing connection 69)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.26.17:180][526]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 0 (Found bundle for host: 0x6b723960900 [serially])
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 1 (Re-using existing connection #70 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.6.162) port 443 (#70))
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 7 (Closing connection 70)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.31.17:217][528]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 0 (Found bundle for host: 0x6b7239605d0 [serially])
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 1 (Re-using existing connection #71 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.239.37.15) port 443 (#71))
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 7 (Closing connection 71)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: 000006B79ECF3200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.34.17:103][321]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 0 (Found bundle for host: 0x6b7239609f0 [serially])
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 1 (Re-using existing connection #72 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.220.100.223) port 443 (#72))
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 7 (Closing connection 72)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: 000006B79ECF2300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.38.17:139][723]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 0 (Found bundle for host: 0x6b723960c00 [serially])
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 1 (Re-using existing connection #73 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.147.142) port 443 (#73))
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 7 (Closing connection 73)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: 000006B79ECF0500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.42.17:241][129]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 0 (Found bundle for host: 0x6b7239608a0 [serially])
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 1 (Re-using existing connection #74 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.6.162) port 443 (#74))
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 7 (Closing connection 74)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: 000006B79ECFEB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.45.17:112][921]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 0 (Found bundle for host: 0x6b723960120 [serially])
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 1 (Re-using existing connection #75 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.217.212.216) port 443 (#75))
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 7 (Closing connection 75)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.49.17:216][327]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 0 (Found bundle for host: 0x6b7239609c0 [serially])
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 1 (Re-using existing connection #76 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.95.110) port 443 (#76))
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 7 (Closing connection 76)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: 000006B79ECF2D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.54.17:137][322]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 0 (Found bundle for host: 0x6b723960ba0 [serially])
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 1 (Re-using existing connection #77 with host datarouter.ol.epicgames.com)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.232.42.187) port 443 (#77))
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 7 (Closing connection 77)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: 000006B79ECFF500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-14.58.17:223][727]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 0 (Found bundle for host: 0x6b7239605d0 [serially])
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 1 (Re-using existing connection #78 with host datarouter.ol.epicgames.com)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.208.253.152) port 443 (#78))
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 7 (Closing connection 78)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: 000006B79ECF2800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-15.03.17:143][722]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B966574F6-4BCE-35CF-BF52-BD8BE51F2740%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=5e1d100b4538fbb95fb395b91b7e0db9%7C302280acea2d43cca22cb0182f94c0aa%7C262ea0fe-f13f-489f-b69c-a2e1b3854628&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-15.04.41:944][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-15.04.42:237][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Master_UI" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset" SILENT=true
+[2024.03.17-15.04.42:240][992]LogSavePackage: Moving output files for package: /Game/UI/Master_UI
+[2024.03.17-15.04.42:241][992]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Master_UIB70F06524E1058B3D14875A565E1E1AA.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/UI/Master_UI.uasset'
+[2024.03.17-15.04.42:254][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 4.59 sec)
+[2024.03.17-15.04.42:261][992]AssetCheck: New page: Asset Save: Master_UI
+[2024.03.17-15.04.42:261][992]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Master_UI.Master_UI
+[2024.03.17-15.04.42:962][ 34]LogSlate: Took 0.009467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.17-15.04.42:964][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:965][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:965][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:965][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:966][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:966][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.42:967][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.17-15.04.44:939][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.17-15.04.44:943][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-15.04.45:020][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-15.04.45:038][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.17-15.04.45:049][140]LogSavePackage: Moving output files for package: /Game/Maps/Map1
+[2024.03.17-15.04.45:050][140]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Map11E51313C4B08C38F640135B4D7979C30.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Maps/Map1.umap'
+[2024.03.17-15.04.45:056][140]LogFileHelpers: Saving map 'Map1' took 0.036
+[2024.03.17-15.04.45:057][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/simple-01" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Images/simple-01.uasset" SILENT=true
+[2024.03.17-15.04.45:061][140]LogSavePackage: Moving output files for package: /Game/Images/simple-01
+[2024.03.17-15.04.45:061][140]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/simple-017F1158E740D6892E03C897A123FDBF8D.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Images/simple-01.uasset'
+[2024.03.17-15.04.45:063][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/Haunting_Attraction" FILE="../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Fonts/Haunting_Attraction.uasset" SILENT=true
+[2024.03.17-15.04.45:064][140]LogSavePackage: Moving output files for package: /Game/Fonts/Haunting_Attraction
+[2024.03.17-15.04.45:064][140]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Haunting_Attraction9242882B45274402DFCE32989106B557.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Fonts/Haunting_Attraction.uasset'
+[2024.03.17-15.04.45:067][140]LogSavePackage: Moving output files for package: /Game/Fonts/Haunting_Attraction_Font
+[2024.03.17-15.04.45:067][140]LogSavePackage: Moving '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Saved/Haunting_Attraction_Font71E571D144FD00DCB6805B96717E869C.tmp' to '../../../../../Rapid Game Prototyping/Theme 4/Maut-Ka-Saudagar/MautKaSaudagar/Content/Fonts/Haunting_Attraction_Font.uasset'
+[2024.03.17-15.04.45:078][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 4.73 sec)
+[2024.03.17-15.04.45:084][140]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.17-15.04.45:084][140]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map1.Map1
+[2024.03.17-15.04.45:084][140]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/simple-01.simple-01
+[2024.03.17-15.04.45:084][140]LogContentValidation: Display: Validating /Script/Engine.Font /Game/Fonts/Haunting_Attraction_Font.Haunting_Attraction_Font
+[2024.03.17-15.04.45:084][140]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/Haunting_Attraction.Haunting_Attraction
